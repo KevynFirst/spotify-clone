@@ -4,13 +4,13 @@
 
 <h2 align="center">📖Descrição</h2>
 
-<p align="center">Clone do front-end do spotify, desenvolvido com HTML5, CSS3 e Javascript vanilla no curso Danki Code front-end completo. Usando flexbox para responsividade, manipulação do player de audio e adição de card de forma dinamica</p>
+<p align="center">Clone do front-end do spotify, desenvolvido com HTML5, CSS3 e Javascript vanilla no curso Danki Code front-end completo. Usando flexbox para responsividade e manipulação do player de audio.</p>
 
 <br>
 
 <h2 align="center">🖥Preview</h2>
 
-<img src="spotify.jpg" alt="Preview desktop"></img>
+<img src="img/spotify.jpg" alt="Preview desktop"></img>
 
 <br>
 
